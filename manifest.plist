@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.3.11/ios/JapaneseStudy.ipa</string>
+					<string>https://raw.githubusercontent.com/SecSunshine/application/master/JapaneseStudy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.3.11/ios/image.png</string>
+					<string>https://raw.githubusercontent.com/SecSunshine/application/master/image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.3.11/ios/image1.png</string>
+					<string>https://raw.githubusercontent.com/SecSunshine/application/master/image1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
